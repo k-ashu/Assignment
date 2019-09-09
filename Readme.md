@@ -14,6 +14,10 @@
         *To input your own data change the data in inputData.js file.
         *Comment the createDatabase function call after running the program for first time to avoid duplicate entries
 
+#Commands for running the code-
+    1) npm install - to install all dependencies
+    2) node index.js - to run the code
+
 #Postmand link to import the REST API:   https://www.getpostman.com/collections/5988b567f74cac2a8bb2
 
 #Description of requests in the API:  
