@@ -15,6 +15,7 @@
         *Comment the createDatabase function call after running the program for first time to avoid duplicate entries
 
 #Commands for running the code-
+    
     1) npm install - to install all dependencies
     2) node index.js - to run the code
 
